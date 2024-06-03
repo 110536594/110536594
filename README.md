@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**110536594/110536594** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é gustavo henrique
 
-Here are some ideas to get you started:
+- estou estudando na alura;
+- estou me desenvolvendo na linguagem javascript
+- utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### voce entra em contato 📧
+
+- 00001105365943SP@al.educacao.sp.gov.br
+
+- gustavorodrigues_016
+
+!{}(![image](https://github.com/110536594/110536594/assets/171074993/044ec923-ea16-4b1b-b427-0aedd4796c6d)
+)
